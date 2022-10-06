@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type= "texts/css" href="estilos.css"?>
+<!DOCTYPE biblioteca>
+<biblioteca>
+    <ejemplar>
+        <Titulo>Ciudades</Titulo>
+            <Autor></Autor>
