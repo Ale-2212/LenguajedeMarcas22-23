@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Cluster>
+<Cluster>
+    <Nodo1>
+        <Nombre>Nodo 1</Nombre>
+        <IP>192.16.1.1</IP>
+        <MaquinasVirtuales>
+            <Maquina1>
+                <Nombre>Uno</Nombre>
+                <S.O>Windows</S.O>
+                <Interfazdered1>
+                    <IP>217.126.129.20</IP>
+                    <MAC>3A-69-03-0A-3C-77</MAC>
+                </Interfazdered1>
+                <Interfazdered2>
+                    <IP>192.16.1.2</IP>
+                    <MAC>3A-69-03-0A-3C-79</MAC>
+                </Interfazdered2>
+            </Maquina1>
+            <Maquina2>
+                <Nombre>Dos</Nombre>
+                <S.O>Windows</S.O>
+                <Interfazdered1>
+                    <IP>192.16.5.2</IP>
+                    <MAC>3A-69-03-0A-3C-20</MAC>
+                </Interfazdered1>
+                <Interfazdered2>
+                    <IP>193.16.5.1</IP>
+                    <MAC>3A-69-03-0A-3C-28</MAC>
+                </Interfazdered2>
+            </Maquina2>
+            <Maquina3>
+                <Nombre>Tres</Nombre>
+                <S.O>Windows</S.O>
+                <Interfazdered1>
+                    <IP>193.20.5.1</IP>
+                    <MAC>3A-69-03-0A-3C-50</MAC>
+                </Interfazdered1>
+                <Interfazdered2>
+                    <IP>195.16.3.3</IP>
+                    <MAC>3A-69-03-0A-3D-20</MAC>
+                </Interfazdered2>
+            </Maquina3>
+        </MaquinasVirtuales>
+    </Nodo1>
+    <Nodo2>
+        <Nombre>Nodo 2</Nombre>
+        <IP>192.16.1.1</IP>
+        <MaquinasVirtuales>
+            <Maquina1>
+                <Nombre>Uno</Nombre>
+                <S.O>Windows</S.O>
+                <Interfazdered1>
+                    <IP>217.126.129.20</IP>
+                    <MAC>3A-69-03-0A-3C-77</MAC>
+                </Interfazdered1>
+            </Maquina1>
+            <Maquina2>
+                <Nombre>Dos</Nombre>
+                <S.O>Windows</S.O>
+                <Interfazdered1>
+                    <IP>195.16.3.3</IP>
+                    <MAC>3A-69-03-0A-3C-20</MAC>
+                </Interfazdered1>
+            </Maquina2>
+            <Maquina3>
+                <Nombre>Dos</Nombre>
+                <S.O>Windows</S.O>
+                <Interfazdered1>
+                    <IP>195.16.3.3</IP>
+                    <MAC>3A-69-03-0A-3C-20</MAC>
+                </Interfazdered1>
+            </Maquina3>
+        </MaquinasVirtuales>
+    </Nodo2>
+    <Nodo3>
+        <Nombre>Nodo 3</Nombre>
+        <IP>192.16.1.1</IP>
+        <MaquinasVirtuales>
+            <Maquina1>
+                <Nombre>Uno</Nombre>
+                <S.O>Windows</S.O>
+                <Interfazdered1>
+                    <IP>217.126.129.20</IP>
+                    <MAC>3A-69-03-0A-3C-77</MAC>
+                </Interfazdered1>
+            </Maquina1>
+            <Maquina2>
+                <Nombre>Dos</Nombre>
+                <S.O>Windows</S.O>
+                <Interfazdered1>
+                    <IP>195.16.3.3</IP>
+                    <MAC>3A-69-03-0A-3C-20</MAC>
+                </Interfazdered1>
+            </Maquina2>
+            <Maquina3>
+                <Nombre>Dos</Nombre>
+                <S.O>Windows</S.O>
+                <Interfazdered1>
+                    <IP>195.16.3.3</IP>
+                    <MAC>3A-69-03-0A-3C-20</MAC>
+                </Interfazdered1>
+            </Maquina3>
+        </MaquinasVirtuales>
+    </Nodo3>
+    <Nodo4>
+        <Nombre>Nodo 4</Nombre>
+        <IP>192.16.1.1</IP>
+        <MaquinasVirtuales>
+            <Maquina1>
+                <Nombre>Uno</Nombre>
+                <S.O>Windows</S.O>
+                <Interfazdered1>
+                    <IP>217.126.129.20</IP>
+                    <MAC>3A-69-03-0A-3C-77</MAC>
+                </Interfazdered1>
+            </Maquina1>
+            <Maquina2>
+                <Nombre>Dos</Nombre>
+                <S.O>Windows</S.O>
+                <Interfazdered1>
+                    <IP>195.16.3.3</IP>
+                    <MAC>3A-69-03-0A-3C-20</MAC>
+                </Interfazdered1>
+            </Maquina2>
+            <Maquina3>
+                <Nombre>Dos</Nombre>
+                <S.O>Windows</S.O>
+                <Interfazdered1>
+                    <IP>195.16.3.3</IP>
+                    <MAC>3A-69-03-0A-3C-20</MAC>
+                </Interfazdered1>
+            </Maquina3>
+        </MaquinasVirtuales>
+    </Nodo4>
+    <Nodo5>
+        <Nombre>Nodo 5</Nombre>
+        <IP>192.16.1.1</IP>
+        <MaquinasVirtuales>
+            <Maquina1>
+                <Nombre>Uno</Nombre>
+                <S.O>Windows</S.O>
+                <Interfazdered1>
+                    <IP>217.126.129.20</IP>
+                    <MAC>3A-69-03-0A-3C-77</MAC>
+                </Interfazdered1>
+            </Maquina1>
+            <Maquina2>
+                <Nombre>Dos</Nombre>
+                <S.O>Windows</S.O>
+                <Interfazdered1>
+                    <IP>195.16.3.3</IP>
+                    <MAC>3A-69-03-0A-3C-20</MAC>
+                </Interfazdered1>
+            </Maquina2>
+            <Maquina3>
+                <Nombre>Dos</Nombre>
+                <S.O>Windows</S.O>
+                <Interfazdered1>
+                    <IP>195.16.3.3</IP>
+                    <MAC>3A-69-03-0A-3C-20</MAC>
+                </Interfazdered1>
+            </Maquina3>
+        </MaquinasVirtuales>
+    </Nodo5>
+
+
+
+
+
+
+
+
+
+
+
+</Cluster>

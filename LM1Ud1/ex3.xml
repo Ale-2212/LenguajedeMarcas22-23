@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Empresa>
+<Edificios>
+    <Edificio1>
+        <Plantas>
+            <Planta1>
+                <NumeroDePlanta>1</NumeroDePlanta>
+                <MetrosCuadrados>1222</MetrosCuadrados>
+                <Empleados>
+                    <Empleado1>
+                        <Puesto>Empresario</Puesto>
+                        <DatosPersonales>Paco,32 años</DatosPersonales>
+                        <NumTelfno>1685413515</NumTelfno>
+                    </Empleado1>
+                    <Empleado2>
+                        <Puesto>Directvia</Puesto>
+                        <DatosPersonales>Elena, 40 años</DatosPersonales>
+                        <NumTelfno>9874954864</NumTelfno>
+                    </Empleado2>
+                    <Empleado3>
+                        <Puesto>JefeDeGrupo</Puesto>
+                        <DatosPersonales>Raul, 50 años</DatosPersonales>
+                        <NumTelfno>5918586186</NumTelfno>
+                    </Empleado3>
+                    <Empleado4>
+                        <Puesto>Contrataciones</Puesto>
+                        <DatosPersonales>Lidia, 20 años</DatosPersonales>
+                        <NumTelfno>6846151</NumTelfno>
+                    </Empleado4>
+                    <Empleado5>
+                        <Puesto>Recepcionista</Puesto>
+                        <DatosPersonales>Paco, 70 años</DatosPersonales>
+                        <NumTelfno>68461618441</NumTelfno>
+                    </Empleado5>
+                </Empleados>
+            </Planta1>
+            <Planta2>
+                <NumeroDePlanta>2</NumeroDePlanta>
+                <MetrosCuadrados>897897</MetrosCuadrados>
+                <Empleados>
+                    <Empleado1>
+                        <Puesto>Empresario</Puesto>
+                        <DatosPersonales>Rubem, 45 años</DatosPersonales>
+                        <NumTelfno>513516851</NumTelfno>
+                    </Empleado1>
+                    <Empleado2>
+                        <Puesto>Directvia</Puesto>
+                        <DatosPersonales>Allison</DatosPersonales>
+                        <NumTelfno>6485464654</NumTelfno>
+                    </Empleado2>
+                    <Empleado3>
+                        <Puesto>Pepe</Puesto>
+                        <DatosPersonales>Barrendero</DatosPersonales>
+                        <NumTelfno>48486416186</NumTelfno>
+                    </Empleado3>
+                    <Empleado4>
+                        <Puesto>Periodista</Puesto>
+                        <DatosPersonales>Ana, 23 años</DatosPersonales>
+                        <NumTelfno>646818534861</NumTelfno>
+                    </Empleado4>
+                    <Empleado5>
+                        <Puesto>Portero</Puesto>
+                        <DatosPersonales>Pirlo, 65 años</DatosPersonales>
+                        <NumTelfno>684865156</NumTelfno>
+                    </Empleado5>
+                </Empleados>
+            </Planta2>
+            <Planta3>
+                <NumeroDePlanta>3</NumeroDePlanta>
+                <MetrosCuadrados>1287</MetrosCuadrados>
+                <Empleados>
+                    <Empleado1>
+                        <Puesto>Empresario</Puesto>
+                        <DatosPersonales>Pedro, 30 años</DatosPersonales>
+                        <NumTelfno>54646184</NumTelfno>
+                    </Empleado1>
+                    <Empleado2>
+                        <Puesto>Seguridad</Puesto>
+                        <DatosPersonales>Luciano, 30 años</DatosPersonales>
+                        <NumTelfno>6546846</NumTelfno>
+                    </Empleado2>
+                    <Empleado3>
+                        <Puesto>Director</Puesto>
+                        <DatosPersonales>Francisco, 22 años</DatosPersonales>
+                        <NumTelfno>2211296503</NumTelfno>
+                    </Empleado3>
+                    <Empleado4>
+                        <Puesto>Limpiadora</Puesto>
+                        <DatosPersonales>Lola, 34 años</DatosPersonales>
+                        <NumTelfno>51621361</NumTelfno>
+                    </Empleado4>
+                    <Empleado5>
+                        <Puesto>Informatico</Puesto>
+                        <DatosPersonales>Pedrito, 20 años</DatosPersonales>
+                        <NumTelfno>484616168</NumTelfno>
+                    </Empleado5>
+                </Empleados>
+            </Planta3>
+        </Plantas>
+    </Edificio1>
+    <Edificio2>
+            <Plantas>
+            <Planta1>
+                <NumeroDePlanta>1</NumeroDePlanta>
+                <MetrosCuadrados>1222</MetrosCuadrados>
+                <Empleados>
+                    <Empleado1>
+                        <Puesto>Empresario</Puesto>
+                        <DatosPersonales>Paco,32 años</DatosPersonales>
+                        <NumTelfno>1685413515</NumTelfno>
+                    </Empleado1>
+                    <Empleado2>
+                        <Puesto>Directvia</Puesto>
+                        <DatosPersonales>Elena, 40 años</DatosPersonales>
+                        <NumTelfno>9874954864</NumTelfno>
+                    </Empleado2>
+                    <Empleado3>
+                        <Puesto>JefeDeGrupo</Puesto>
+                        <DatosPersonales>Raul, 50 años</DatosPersonales>
+                        <NumTelfno>5918586186</NumTelfno>
+                    </Empleado3>
+                    <Empleado4>
+                        <Puesto>Contrataciones</Puesto>
+                        <DatosPersonales>Lidia, 20 años</DatosPersonales>
+                        <NumTelfno>6846151</NumTelfno>
+                    </Empleado4>
+                    <Empleado5>
+                        <Puesto>Recepcionista</Puesto>
+                        <DatosPersonales>Paco, 70 años</DatosPersonales>
+                        <NumTelfno>68461618441</NumTelfno>
+                    </Empleado5>
+                </Empleados>
+            </Planta1>
+            <Planta2>
+                <NumeroDePlanta>2</NumeroDePlanta>
+                <MetrosCuadrados>897897</MetrosCuadrados>
+                <Empleados>
+                    <Empleado1>
+                        <Puesto>Empresario</Puesto>
+                        <DatosPersonales>Rubem, 45 años</DatosPersonales>
+                        <NumTelfno>513516851</NumTelfno>
+                    </Empleado1>
+                    <Empleado2>
+                        <Puesto>Directvia</Puesto>
+                        <DatosPersonales>Allison</DatosPersonales>
+                        <NumTelfno>6485464654</NumTelfno>
+                    </Empleado2>
+                    <Empleado3>
+                        <Puesto>Pepe</Puesto>
+                        <DatosPersonales>Barrendero</DatosPersonales>
+                        <NumTelfno>48486416186</NumTelfno>
+                    </Empleado3>
+                    <Empleado4>
+                        <Puesto>Periodista</Puesto>
+                        <DatosPersonales>Ana, 23 años</DatosPersonales>
+                        <NumTelfno>646818534861</NumTelfno>
+                    </Empleado4>
+                    <Empleado5>
+                        <Puesto>Portero</Puesto>
+                        <DatosPersonales>Pirlo, 65 años</DatosPersonales>
+                        <NumTelfno>684865156</NumTelfno>
+                    </Empleado5>
+                </Empleados>
+            </Planta2>
+            <Planta3>
+                <NumeroDePlanta>3</NumeroDePlanta>
+                <MetrosCuadrados>1287</MetrosCuadrados>
+                <Empleados>
+                    <Empleado1>
+                        <Puesto>Empresario</Puesto>
+                        <DatosPersonales>Pedro, 30 años</DatosPersonales>
+                        <NumTelfno>54646184</NumTelfno>
+                    </Empleado1>
+                    <Empleado2>
+                        <Puesto>Seguridad</Puesto>
+                        <DatosPersonales>Luciano, 30 años</DatosPersonales>
+                        <NumTelfno>6546846</NumTelfno>
+                    </Empleado2>
+                    <Empleado3>
+                        <Puesto>Director</Puesto>
+                        <DatosPersonales>Francisco, 22 años</DatosPersonales>
+                        <NumTelfno>2211296503</NumTelfno>
+                    </Empleado3>
+                    <Empleado4>
+                        <Puesto>Limpiadora</Puesto>
+                        <DatosPersonales>Lola, 34 años</DatosPersonales>
+                        <NumTelfno>51621361</NumTelfno>
+                    </Empleado4>
+                    <Empleado5>
+                        <Puesto>Informatico</Puesto>
+                        <DatosPersonales>Pedrito, 20 años</DatosPersonales>
+                        <NumTelfno>484616168</NumTelfno>
+                    </Empleado5>
+                </Empleados>
+            </Planta3>
+        </Plantas>
+    </Edificio2>
+    <Edificio3>
+            <Plantas>
+            <Planta1>
+                <NumeroDePlanta>1</NumeroDePlanta>
+                <MetrosCuadrados>1222</MetrosCuadrados>
+                <Empleados>
+                    <Empleado1>
+                        <Puesto>Empresario</Puesto>
+                        <DatosPersonales>Paco,32 años</DatosPersonales>
+                        <NumTelfno>1685413515</NumTelfno>
+                    </Empleado1>
+                    <Empleado2>
+                        <Puesto>Directvia</Puesto>
+                        <DatosPersonales>Elena, 40 años</DatosPersonales>
+                        <NumTelfno>9874954864</NumTelfno>
+                    </Empleado2>
+                    <Empleado3>
+                        <Puesto>JefeDeGrupo</Puesto>
+                        <DatosPersonales>Raul, 50 años</DatosPersonales>
+                        <NumTelfno>5918586186</NumTelfno>
+                    </Empleado3>
+                    <Empleado4>
+                        <Puesto>Contrataciones</Puesto>
+                        <DatosPersonales>Lidia, 20 años</DatosPersonales>
+                        <NumTelfno>6846151</NumTelfno>
+                    </Empleado4>
+                    <Empleado5>
+                        <Puesto>Recepcionista</Puesto>
+                        <DatosPersonales>Paco, 70 años</DatosPersonales>
+                        <NumTelfno>68461618441</NumTelfno>
+                    </Empleado5>
+                </Empleados>
+            </Planta1>
+            <Planta2>
+                <NumeroDePlanta>2</NumeroDePlanta>
+                <MetrosCuadrados>897897</MetrosCuadrados>
+                <Empleados>
+                    <Empleado1>
+                        <Puesto>Empresario</Puesto>
+                        <DatosPersonales>Rubem, 45 años</DatosPersonales>
+                        <NumTelfno>513516851</NumTelfno>
+                    </Empleado1>
+                    <Empleado2>
+                        <Puesto>Directvia</Puesto>
+                        <DatosPersonales>Allison</DatosPersonales>
+                        <NumTelfno>6485464654</NumTelfno>
+                    </Empleado2>
+                    <Empleado3>
+                        <Puesto>Pepe</Puesto>
+                        <DatosPersonales>Barrendero</DatosPersonales>
+                        <NumTelfno>48486416186</NumTelfno>
+                    </Empleado3>
+                    <Empleado4>
+                        <Puesto>Periodista</Puesto>
+                        <DatosPersonales>Ana, 23 años</DatosPersonales>
+                        <NumTelfno>646818534861</NumTelfno>
+                    </Empleado4>
+                    <Empleado5>
+                        <Puesto>Portero</Puesto>
+                        <DatosPersonales>Pirlo, 65 años</DatosPersonales>
+                        <NumTelfno>684865156</NumTelfno>
+                    </Empleado5>
+                </Empleados>
+            </Planta2>
+            <Planta3>
+                <NumeroDePlanta>3</NumeroDePlanta>
+                <MetrosCuadrados>1287</MetrosCuadrados>
+                <Empleados>
+                    <Empleado1>
+                        <Puesto>Empresario</Puesto>
+                        <DatosPersonales>Pedro, 30 años</DatosPersonales>
+                        <NumTelfno>54646184</NumTelfno>
+                    </Empleado1>
+                    <Empleado2>
+                        <Puesto>Seguridad</Puesto>
+                        <DatosPersonales>Luciano, 30 años</DatosPersonales>
+                        <NumTelfno>6546846</NumTelfno>
+                    </Empleado2>
+                    <Empleado3>
+                        <Puesto>Director</Puesto>
+                        <DatosPersonales>Francisco, 22 años</DatosPersonales>
+                        <NumTelfno>2211296503</NumTelfno>
+                    </Empleado3>
+                    <Empleado4>
+                        <Puesto>Limpiadora</Puesto>
+                        <DatosPersonales>Lola, 34 años</DatosPersonales>
+                        <NumTelfno>51621361</NumTelfno>
+                    </Empleado4>
+                    <Empleado5>
+                        <Puesto>Informatico</Puesto>
+                        <DatosPersonales>Pedrito, 20 años</DatosPersonales>
+                        <NumTelfno>484616168</NumTelfno>
+                    </Empleado5>
+                </Empleados>
+            </Planta3>
+        </Plantas>
+    </Edificio3>
+
+</Edificios>
