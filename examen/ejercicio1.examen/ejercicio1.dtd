@@ -1,0 +1,10 @@
+<!ELEMENT relacion (persona*)>
+<!ELEMENT persona (nombre,email,parentesco,sexo)>
+<!ATTLIST persona carnet CDATA #REQUIRED)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT parentesco (padre | madre)>
+<!ELEMENT sexo (hombre | mujer)>
+
+
+

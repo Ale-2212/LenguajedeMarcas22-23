@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiporder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="ejercicio4examen.xsd">
+  <orderperson>pepe</orderperson>
+  <shipto>
+    <name>si</name>
+    <address>mairena</address>
+    <city>sevilla</city>
+    <country>españa</country>
+  </shipto>
+  <item>
+    <title>boli</title>
+    <note>vaag</note>
+    <quantity>59</quantity>
+    <price>4.00</price>
+  </item>
+  <item>
+    <title>pencil</title>
+    <note>afb</note>
+    <quantity>85</quantity>
+    <price>4.47</price>
+  </item>
+  <item>
+    <title>goma</title>
+    <note>adcag</note>
+    <quantity>97</quantity>
+    <price>5.20</price>
+  </item>
+</shiporder>
